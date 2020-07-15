@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\practice\plc\bin\Debug\plc.dll
+C:\Users\User\source\repos\practice\plc\bin\Debug\plc.pdb
+C:\Users\User\source\repos\practice\plc\obj\Debug\plc.csprojAssemblyReference.cache
+C:\Users\User\source\repos\practice\plc\obj\Debug\plc.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\practice\plc\obj\Debug\plc.dll
+C:\Users\User\source\repos\practice\plc\obj\Debug\plc.pdb

@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\practice\Write\bin\Debug\Write.dll
+C:\Users\User\source\repos\practice\Write\bin\Debug\Write.pdb
+C:\Users\User\source\repos\practice\Write\bin\Debug\plc.dll
+C:\Users\User\source\repos\practice\Write\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\source\repos\practice\Write\bin\Debug\plc.pdb
+C:\Users\User\source\repos\practice\Write\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\source\repos\practice\Write\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\User\source\repos\practice\Write\obj\Debug\Write.csprojAssemblyReference.cache
+C:\Users\User\source\repos\practice\Write\obj\Debug\Write.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\practice\Write\obj\Debug\Write.csproj.CopyComplete
+C:\Users\User\source\repos\practice\Write\obj\Debug\Write.dll
+C:\Users\User\source\repos\practice\Write\obj\Debug\Write.pdb

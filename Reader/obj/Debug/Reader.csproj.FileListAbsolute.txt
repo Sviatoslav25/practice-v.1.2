@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\practice\Reader\bin\Debug\Reader.dll
+C:\Users\User\source\repos\practice\Reader\bin\Debug\Reader.pdb
+C:\Users\User\source\repos\practice\Reader\bin\Debug\plc.dll
+C:\Users\User\source\repos\practice\Reader\bin\Debug\Write.dll
+C:\Users\User\source\repos\practice\Reader\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\source\repos\practice\Reader\bin\Debug\plc.pdb
+C:\Users\User\source\repos\practice\Reader\bin\Debug\Write.pdb
+C:\Users\User\source\repos\practice\Reader\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\source\repos\practice\Reader\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\User\source\repos\practice\Reader\obj\Debug\Reader.csprojAssemblyReference.cache
+C:\Users\User\source\repos\practice\Reader\obj\Debug\Reader.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\practice\Reader\obj\Debug\Reader.csproj.CopyComplete
+C:\Users\User\source\repos\practice\Reader\obj\Debug\Reader.dll
+C:\Users\User\source\repos\practice\Reader\obj\Debug\Reader.pdb

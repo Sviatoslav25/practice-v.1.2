@@ -55,6 +55,20 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\plc\plc.csproj">
+      <Project>{a24a9490-5c5d-468f-b8b0-604d7f73d1df}</Project>
+      <Name>plc</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Reader\Reader.csproj">
+      <Project>{746640eb-06e8-45d8-b884-8f1e6ba4f915}</Project>
+      <Name>Reader</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Write\Write.csproj">
+      <Project>{b344661f-4e4a-4119-8d0a-8f5751d98349}</Project>
+      <Name>Write</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\System.Data.SQLite.Core.1.0.113.1\build\net46\System.Data.SQLite.Core.targets" Condition="Exists('..\packages\System.Data.SQLite.Core.1.0.113.1\build\net46\System.Data.SQLite.Core.targets')" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
